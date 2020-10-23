@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:andoid="http://schemas.android.com/apk/res/android"
+       andoid:shape="rectangle"
+    >
+
+    <size andoid:height="70dp"
+            andoid:width="180dp">
+    </size>
+
+    <corners
+        andoid:radius="50dp"
+        ></corners>
+
+    <solid andoid:color="#2757E8"></solid>
+
+</shape>
